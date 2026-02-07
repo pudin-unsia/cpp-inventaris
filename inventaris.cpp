@@ -4,6 +4,12 @@
 #include <algorithm>
 #include <cctype>
 
+// Pudin Saepudin Ilham
+// 250401010001
+// PJJ INFORMATIKA
+// IF107
+// 07 Februari 2026
+
 using namespace std;
 
 // Struct untuk merepresentasikan data produk
@@ -452,3 +458,4 @@ int main() {
 
     return 0;
 }
+
